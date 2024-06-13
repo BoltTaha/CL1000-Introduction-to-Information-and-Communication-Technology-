@@ -1,6 +1,4 @@
-Absolutely! Here's an enhanced README template with an abundance of emojis for your CL1000 - Introduction to Information and Communication Technology repository:
 
----
 
 # CL1000 - Introduction to Information and Communication Technology 🖥️💡
 
